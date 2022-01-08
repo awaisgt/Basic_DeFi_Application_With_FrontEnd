@@ -11,4 +11,14 @@
 8) Front end made using React JS (Front-end) and contract deployed using Brownie (Python framework).
 
 
-  LINK: https://csb-ob45j.netlify.app/
+
+
+ LINK: https://csb-ob45j.netlify.app/
+  
+    
+ Contract Address (DeFi Contract) : 0xdCADFdF24C15ADAcd40bCFb52923De5dbd36b843 </br>
+ 
+ Link For Ether Scan (DeFi Contract) : https://rinkeby.etherscan.io/address/0xdCADFdF24C15ADAcd40bCFb52923De5dbd36b843 </br>
+
+ Token Address (DeFi Reward Token) : 
+
