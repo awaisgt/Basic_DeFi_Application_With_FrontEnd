@@ -20,5 +20,5 @@
  
  Link For Ether Scan (DeFi Contract) : https://rinkeby.etherscan.io/address/0xdCADFdF24C15ADAcd40bCFb52923De5dbd36b843 </br>
 
- Token Address (DeFi Reward Token) : 
+ Token Address (DeFi Reward Token) : 0xDf9365E089bAfa5402B0BB0e3DcA273702c5fdEa
 
